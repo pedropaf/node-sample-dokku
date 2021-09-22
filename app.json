@@ -1,0 +1,6 @@
+{
+  "name": "Node Example",
+  "description": "Part of the Deploying Node to Dokku tutorial",
+  "repository": "https://github.com/pedropaf/node-sample-dokku.git",
+  "keywords": ["node", "websocket", "socket.io"]
+}

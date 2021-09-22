@@ -1,0 +1,18 @@
+{
+  "name": "node-sample",
+  "version": "1.0.0",
+  "description": "sample app to deploy in dokku",
+  "engines": {
+    "node": "12.x"
+  },
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "Pedro Alonso",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "socket.io": "^2.3.0"
+  }
+}
